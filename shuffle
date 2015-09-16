@@ -1,2 +1,6 @@
 #!/bin/bash
-php /Users/collinjames/Documents/scripts/shufflenames.php $1
+
+#assumes php is installed on your system
+#change path for your system
+path="/Users/collinjames/Documents/scripts"
+php $path/shufflenames/shufflenames.php $1
