@@ -1,0 +1,2 @@
+#!/bin/bash
+php /Users/collinjames/Documents/scripts/shufflenames.php $1
